@@ -1,3 +1,24 @@
+# Algorand dApp Quick Start Reference
+
+Fork of an Algorand TypeScript full-stack starter with wallet and smart-contract integration examples.
+
+The main AlgoKit workspace is nested under `QuickStartTemplate/`. Start with its project documentation and package manifests rather than assuming npm commands run from the outer repository root.
+
+## Provenance
+
+This repository is a fork of [Ganainmtech/Algorand-dApp-Quick-Start-Template-TypeScript](https://github.com/Ganainmtech/Algorand-dApp-Quick-Start-Template-TypeScript). Upstream authorship and license terms apply to the retained source. The fork may differ from the upstream default branch; inspect its commit history when reviewing a specific implementation.
+
+## Explore the repository
+
+- [`QuickStartTemplate/`](QuickStartTemplate/)
+
+## Project documentation
+
+The existing guide below preserves the project-specific setup, examples, and credits. Its commands describe the checked-in project; no deployment or transaction is performed by reading this repository.
+
+<details>
+<summary>Read the project guide</summary>
+
 # Algorand-dApp-Quick-Start-Template-TypeScript
 
 This is a full-stack starter template for quickly building and testing Web3 ideas on Algorand. It includes:
@@ -146,3 +167,4 @@ https://github.com/user-attachments/assets/643cae10-4673-4b68-8e95-4a3f16fbba60
 
 https://github.com/user-attachments/assets/a76e90fa-97f4-44f8-a7e8-a8ccabd24398
 
+</details>
